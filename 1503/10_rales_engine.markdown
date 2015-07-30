@@ -56,7 +56,7 @@ paucity of tests
 
 ### Chelsea Worrel
 
-Github: https://github.com/chelseaworrel/rales_engine<br>
+Github: https://github.com/chelseaworrel/rales_engine
 Production: https://tranquil-headland-2951.herokuapp.com/api/v1/
 
 * **Completion**:
@@ -67,7 +67,7 @@ Production: https://tranquil-headland-2951.herokuapp.com/api/v1/
 
 ### Vanessa Gomez
 
-Github: https://github.com/vanegomez/rales_engine<br>
+Github: https://github.com/vanegomez/rales_engine
 Production: https://ralesenginepro.herokuapp.com
 
 * **Completion**:
@@ -78,7 +78,7 @@ Production: https://ralesenginepro.herokuapp.com
 
 ### Drew Reynolds
 
-Github: https://github.com/NYDrewReynolds/rales_engine<br>
+Github: https://github.com/NYDrewReynolds/rales_engine
 Production: https://drew-rales-engine.herokuapp.com
 
 * **Completion**:
@@ -89,8 +89,8 @@ Production: https://drew-rales-engine.herokuapp.com
 
 ### Lev Kravinsky
 
-Github: https://github.com/levthedev/rales-engine<br>
-Production: https://railsengine.herokuapp.com
+Github:
+Production:
 
 * **Completion**:
 * **Rails and ActiveRecord Style**:
@@ -111,7 +111,7 @@ Production:
 
 ### Rick Bacci
 
-Github: https://github.com/RickBacci/rails_engine<br>
+Github: https://github.com/RickBacci/rails_engine
 Production: https://rails-engine-175.herokuapp.com/
 
 * **Completion**:
@@ -122,8 +122,8 @@ Production: https://rails-engine-175.herokuapp.com/
 
 ### Dave Mauer
 
-Github: https://github.com/davemaurer/rails_engine<br>
-Production: http://glacial-waters-5604.herokuapp.com
+Github:
+Production:
 
 * **Completion**:
 * **Rails and ActiveRecord Style**:
@@ -133,7 +133,7 @@ Production: http://glacial-waters-5604.herokuapp.com
 
 ### Max Tedford
 
-Github: https://github.com/maxtedford/rales_engine<br>
+Github: https://github.com/maxtedford/rales_engine
 Production: https://providing-api.herokuapp.com
 
 * **Completion**:
@@ -144,8 +144,8 @@ Production: https://providing-api.herokuapp.com
 
 ### Sally MacNicholas
 
-Github: https://github.com/sallymacnicholas/rales_engine<br>
-Production: https://ancient-oasis-9609.herokuapp.com/
+Github:
+Production:
 
 * **Completion**:
 * **Rails and ActiveRecord Style**:
@@ -154,50 +154,6 @@ Production: https://ancient-oasis-9609.herokuapp.com/
 * **Test Driven Design**:
 
 ### Brett Grigsby
-
-Github: https://github.com/brettgrigsby/rails_engine<br>
-Production: https://secure-beach-8502.herokuapp.com/
-
-* **Completion**:
-* **Rails and ActiveRecord Style**:
-* **Ruby Style and Code Quality**:
-* **API Design**:
-* **Test Driven Design**:
-
-### Margarett Ly
-
-Github: https://github.com/aoili/rales_engine<br>
-Production: https://radiant-plateau-5764.herokuapp.com
-
-* **Completion**:
-* **Rails and ActiveRecord Style**:
-* **Ruby Style and Code Quality**:
-* **API Design**:
-* **Test Driven Design**:
-
-### Josh Cass
-
-Github: https://github.com/joshcass/rales_engine<br>
-Production: http://ralesengine.herokuapp.com
-
-* **Completion**:
-* **Rails and ActiveRecord Style**:
-* **Ruby Style and Code Quality**:
-* **API Design**:
-* **Test Driven Design**:
-
-### Jamie Kawahara
-
-Github: https://github.com/androidgrl/Rails-Engine<br>
-Production: https://rales-engine.herokuapp.com
-
-* **Completion**:
-* **Rails and ActiveRecord Style**:
-* **Ruby Style and Code Quality**:
-* **API Design**:
-* **Test Driven Design**:
-
-### Robert Cornell
 
 Github:
 Production:
@@ -208,10 +164,54 @@ Production:
 * **API Design**:
 * **Test Driven Design**:
 
+### Margarett
+
+Github:
+Production:
+
+* **Completion**:
+* **Rails and ActiveRecord Style**:
+* **Ruby Style and Code Quality**:
+* **API Design**:
+* **Test Driven Design**:
+
+### Josh Cass
+
+Github:
+Production:
+
+* **Completion**:
+* **Rails and ActiveRecord Style**:
+* **Ruby Style and Code Quality**:
+* **API Design**:
+* **Test Driven Design**:
+
+### Jamie Kawahara
+
+Github: https://github.com/androidgrl/Rails-Engine
+Production: https://rales-engine.herokuapp.com
+
+* **Completion**:
+* **Rails and ActiveRecord Style**:
+* **Ruby Style and Code Quality**:
+* **API Design**:
+* **Test Driven Design**:
+
+### Robert Cornell
+
+Github: https://github.com/RMCornell/ralesengine
+Production: https://rcralesengine.herokuapp.com
+
+* **Completion**:
+* **Rails and ActiveRecord Style**:
+* **Ruby Style and Code Quality**:
+* **API Design**:
+* **Test Driven Design**:
+
 ### Justin Holmes
 
-Github: https://github.com/Justin-Holmes/rails_engine<br>
-Production: https://murmuring-headland-1708.herokuapp.com/
+Github:
+Production:
 
 * **Completion**:
 * **Rails and ActiveRecord Style**:
@@ -221,8 +221,8 @@ Production: https://murmuring-headland-1708.herokuapp.com/
 
 ### Whitney Hiemstra
 
-Github: https://github.com/whithub/rales_engine<br>
-Production: https://pacific-springs-6468.herokuapp.com
+Github:
+Production:
 
 * **Completion**:
 * **Rails and ActiveRecord Style**:
@@ -232,8 +232,8 @@ Production: https://pacific-springs-6468.herokuapp.com
 
 ### Morgan Miller
 
-Github: https://github.com/morganmiller/rales-engine<br>
-Production: https://rales--engine.herokuapp.com/api/v1
+Github:
+Production:
 
 * **Completion**:
 * **Rails and ActiveRecord Style**:
@@ -243,7 +243,7 @@ Production: https://rales--engine.herokuapp.com/api/v1
 
 ### Andrew Fink
 
-Github: https://github.com/adfink/engine<br>
+Github: https://github.com/adfink/engine
 Production: https://gentle-caverns-9232.herokuapp.com/
 
 * **Completion**:
@@ -254,8 +254,8 @@ Production: https://gentle-caverns-9232.herokuapp.com/
 
 ### Jack Yeh
 
-Github: https://github.com/jxandery/rails-engine<br>
-Production: https://git.heroku.com/radiant-stream-8534.git
+Github:
+Production:
 
 * **Completion**:
 * **Rails and ActiveRecord Style**:
